@@ -1,0 +1,1 @@
+adding this file using git clone in" test" dir w/o using remote add origin 
