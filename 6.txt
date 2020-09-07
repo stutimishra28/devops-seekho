@@ -1,0 +1,2 @@
+Hi this is made to understand the "git stash" command and also git stash -u
+and git stash pop commands. i.e SAVE W/O COMMITTING
